@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# dz-watches
+
+[![Build status](https://ci.appveyor.com/api/projects/status/6lh1uowt9kmgqac6?svg=true)](https://ci.appveyor.com/project/pvova21/dz-watches)
+
+## [GitHub Pages](https://pvova21.github.io/dz-watches/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
