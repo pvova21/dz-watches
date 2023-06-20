@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-watches/static/css/main.fd56bf53.css",
+    "main.js": "/dz-watches/static/js/main.fefc0e2b.js",
+    "static/js/787.df3ce32d.chunk.js": "/dz-watches/static/js/787.df3ce32d.chunk.js",
+    "index.html": "/dz-watches/index.html",
+    "main.fd56bf53.css.map": "/dz-watches/static/css/main.fd56bf53.css.map",
+    "main.fefc0e2b.js.map": "/dz-watches/static/js/main.fefc0e2b.js.map",
+    "787.df3ce32d.chunk.js.map": "/dz-watches/static/js/787.df3ce32d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd56bf53.css",
+    "static/js/main.fefc0e2b.js"
+  ]
+}
