@@ -1,0 +1,53 @@
+.container {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+form {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+input {
+  margin-top: 10px;
+}
+
+.clock-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item-clock {
+  width: 150px;
+  position: relative;
+  margin-right: 25px;
+}
+
+.item-clock p {
+  text-align: center;
+}
+
+.item-clock svg {
+  border: 1px solid;
+  border-radius: 150px;
+}
+
+.close {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  border: 1px solid;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 20px;
+  cursor: pointer;
+}
